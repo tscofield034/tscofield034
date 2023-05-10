@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Generate Pricing Model for Ski Resort Tickets</b>
-  - [Project Notebook](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Project Notebook](https://github.com/tscofield034/BigMountainPricingCapstone)
 - <b>Prediction of Wild Blueberry Yield</b>
   - [Project Notebook](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Data Science Pipeline for Stroke Prediction</b>
