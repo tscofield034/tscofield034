@@ -3,11 +3,11 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Generate Pricing Model for Ski Resort Tickets</b>
-  - [Project Notebook](https://github.com/tscofield034/BigMountainPricingCapstone)
+  - [Project Repository](https://github.com/tscofield034/BigMountainPricingCapstone)
 - <b>Prediction of Wild Blueberry Yield</b>
-  - [Project Notebook](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Project Repository](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Data Science Pipeline for Stroke Prediction</b>
-  - [Project Notebook](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Project Repository](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Detection of Insects in Class-Imbalanced LiDAR Field Measurements</b>
   - [Publication](https://ieeexplore.ieee.org/abstract/document/9596143)</b></i>
 - <b>Identifying Fish in Airborne LiDAR Data</b>
