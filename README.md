@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
+- <b>Medical Text Analysis and ChatGPT Comparison</b>
+  - [Project Repository](https://github.com/tscofield034/Capstone3-MedicalSentimentAnalysis)
 - <b>Generate Pricing Model for Ski Resort Tickets</b>
   - [Project Repository](https://github.com/tscofield034/BigMountainPricingCapstone)
 - <b>Prediction of Wild Blueberry Yield</b>
