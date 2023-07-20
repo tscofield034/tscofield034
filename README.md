@@ -1,4 +1,4 @@
-<h1>Hi, I'm Trey! 
+<h1>Hi, I'm Trey! </h1>
 
 *I am a Data Scientist skilled in Python, SQL, and machine learning applications. I have experience using statistics and various data analytic methods to create powerful visualizations, models, and software deployments in the industry sector. 
 
