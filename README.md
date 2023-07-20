@@ -8,15 +8,15 @@ In my free time, I enjoy alpine skiing, mountain biking, being on the lake, and 
 
 Please feel free to connect with me as I would love to gain more perspective from people already in the field or about any new opportunities!
 
-**Technical Skills**
+**_Technical Skills_**
 
 - **Languages:** Python (Pandas, NumPy, Tensorflow), SQL, R
-- Data Visualization: Matplotlib, Seaborn, Tableau
-- Reporting & Analytics: Advanced Microsoft Excel (Pivot Tables, Vlookup, Hlookup) 
-- Statistical Analysis: Descriptive & Inferential Statistics, Regression Modeling
-- AI/ML skills: Supervised and unsupervised ML modeling, Deep Learning
-- Other DS Skills: Predictive Modeling, Advanced Signal Processing Techniques, Statistics, Analytics
-- Interpersonal: Project Management, Collaboration, Communication Skills
+- **Data Visualization:** Matplotlib, Seaborn, Tableau
+- **Reporting & Analytics:** Advanced Microsoft Excel (Pivot Tables, Vlookup, Hlookup) 
+- **Statistical Analysis:** Descriptive & Inferential Statistics, Regression Modeling
+- **AI/ML skills:** Supervised and unsupervised ML modeling, Deep Learning
+- **Other DS Skills:** Predictive Modeling, Advanced Signal Processing Techniques, Statistics, Analytics
+- **Interpersonal:** Project Management, Collaboration, Communication Skills
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
