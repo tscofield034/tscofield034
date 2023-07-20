@@ -1,5 +1,22 @@
 <h1>Hi, I'm Trey! 
 
+I am a Data Scientist skilled in Python, SQL, and machine learning applications. I have experience using statistics and various data analytic methods to create powerful visualizations, models, and software deployments in the industry sector. 
+
+Having previously studied mathematics, signal processing, and machine learning, I have been exposed to a wide variety of knowledge and bring a lot to the table for companies seeking data-driven solutions. I have led research for NASA and the Air Force Research Laboratory in machine learning projects seeking high recall rates in class-imbalanced, remote sensing applications. I also have experience as a software engineer on a small team at a military defense company where I helped design and test algorithms for various signal-processing tasks in a high data-rate system.
+
+In my free time, I enjoy alpine skiing, mountain biking, being on the lake, and backpacking with my dog Willa. 
+
+Please feel free to connect with me as I would love to gain more perspective from people already in the field or about any new opportunities!
+
+Technical Skills
+Languages: Python (Pandas, NumPy, Tensorflow), SQL, R
+Data Visualization: Matplotlib, Seaborn, Tableau
+Reporting & Analytics: Advanced Microsoft Excel (Pivot Tables, Vlookup, Hlookup) 
+Statistical Analysis: Descriptive & Inferential Statistics, Regression Modeling
+AI/ML skills: Supervised and unsupervised ML modeling, Deep Learning
+Other DS Skills: Predictive Modeling, Advanced Signal Processing Techniques, Statistics, Analytics
+Interpersonal: Project Management, Collaboration, Communication Skills
+
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Medical Text Analysis and ChatGPT Comparison</b>
