@@ -4,12 +4,12 @@
 
 - <b>Medical Text Analysis and ChatGPT Comparison</b>
   - [Project Repository](https://github.com/tscofield034/Capstone3-MedicalSentimentAnalysis)
-- <b>Generate Pricing Model for Ski Resort Tickets</b>
-  - [Project Repository](https://github.com/tscofield034/BigMountainPricingCapstone)
-- <b>Prediction of Wild Blueberry Yield</b>
-  - [Project Repository](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 - <b>Data Science Pipeline for Stroke Prediction</b>
   - [Project Repository](https://github.com/tscofield034/Capstone2-StrokePrediction)
+- <b>Prediction of Wild Blueberry Yield</b>
+  - [Project Repository](https://github.com/tscofield034/BlueberryYieldPrediction)
+- <b>Generate Pricing Model for Ski Resort Tickets</b>
+  - [Project Repository](https://github.com/tscofield034/BigMountainPricingCapstone)
 - <b>Detection of Insects in Class-Imbalanced LiDAR Field Measurements</b>
   - [Publication](https://ieeexplore.ieee.org/abstract/document/9596143)</b></i>
 - <b>Identifying Fish in Airborne LiDAR Data</b>
@@ -38,4 +38,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm
 -->
